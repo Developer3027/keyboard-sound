@@ -2,7 +2,7 @@
 project to turn the keyboard into a piano or drum kit with animation?
 
 This project is active at:
-https://nifty-agnesi-77a5e6.netlify.com/
+[keyboard sounds netlify](https://nifty-agnesi-77a5e6.netlify.app/)
 
 <img src="./keyboard-bounce.jpg" />
 
